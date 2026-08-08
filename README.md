@@ -4,7 +4,7 @@
 
 ### AI Engineer building production-grade agentic RAG systems, multi-agent orchestration, and retrieval pipelines — currently open to AI Engineer roles.
 
-[![Portfolio](https://img.shields.io/badge/Resume-View-1F4E79?style=for-the-badge&logo=googledocs&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Resume-View-1F4E79?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1Skgh2fb2qbjXiap_mJDEuWAe4aql9Dnb/edit?usp=sharing&ouid=102555872536251924623&rtpof=true&sd=true)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soban-shankar-7731b3305/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssoban2004@gmail.com)
 
