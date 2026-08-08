@@ -142,6 +142,6 @@ An autonomous support agent over a ~2,000-entry FAQ corpus that checks order/ref
 
 <div align="center">
 
-**📫 ssoban2004@gmail.com** · **📍 Chennai, India (Open to Relocation — Bengaluru)**
+**📫 ssoban2004@gmail.com** · **📍 Chennai, India**
 
 </div>
