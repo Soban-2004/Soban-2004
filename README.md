@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Agentic+RAG+%26+Multi-Agent+Systems;Building+LLM-powered+products+that+ship;LangChain+Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Agentic+RAG+%26+Multi-Agent+Systems;Building+LLM-powered+products+that+ship;LangChain+Open+Source+Contributor" alt="Typing SVG" />
 
 ### AI Engineer building production-grade agentic RAG systems, multi-agent orchestration, and retrieval pipelines — currently open to AI Engineer roles.
 
