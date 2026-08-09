@@ -15,7 +15,7 @@
 ---
 
 
-### GitHub Statss
+### GitHub Stats
 
 <div align="center">
 
