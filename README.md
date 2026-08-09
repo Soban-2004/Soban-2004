@@ -17,8 +17,11 @@
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Soban-2004&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soban-2004&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Soban-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soban-2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
+
 </div>
 
 <div align="center">
