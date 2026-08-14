@@ -139,14 +139,6 @@ An autonomous support agent over a ~2,000-entry FAQ corpus that checks order/ref
 
 ---
 
-### Certifications
-
-- Oracle Cloud Infrastructure – Agentic AI Certified Foundations Associate
-- Oracle Cloud Infrastructure – AI Foundations Associate
-- Machine Learning Specialization – Stanford University
-
----
-
 <div align="center">
 
 **📫 ssoban2004@gmail.com** · **📍 Chennai, India**
